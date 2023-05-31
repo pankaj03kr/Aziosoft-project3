@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,28 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+
+.login{
+  margin-right: 40px;
+}
+
+.apply-job{
+  margin: 50px;
+}
+
+.fa-user-plus{
+  color: blue;
+  margin-left: 160px;
+  
+}
+.fa-magnifying-glass{
+  color: blue;
+  margin-left: 170px;
+}
+.fa-user-check{
+  color: blue;
+  margin-left: 170px;
 }
