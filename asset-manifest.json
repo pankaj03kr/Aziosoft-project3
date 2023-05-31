@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aziosoft-project3/static/css/main.1af1a265.css",
+    "main.js": "/Aziosoft-project3/static/js/main.1e92fa7c.js",
+    "index.html": "/Aziosoft-project3/index.html",
+    "main.1af1a265.css.map": "/Aziosoft-project3/static/css/main.1af1a265.css.map",
+    "main.1e92fa7c.js.map": "/Aziosoft-project3/static/js/main.1e92fa7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af1a265.css",
+    "static/js/main.1e92fa7c.js"
+  ]
+}
