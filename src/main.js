@@ -395,7 +395,12 @@ function Main() {
 
           <div
             className="card mainh"
-            style={{ width: 1320, margin: 5, position: "relative", right: 18 }}
+            style={{
+              width: 1320,
+              margin: 5,
+              position: "relative",
+              right: 18,
+            }}
           >
             <div className="row" style={{ display: "flex", marginTop: 70 }}>
               <div className="col-lg-2">
@@ -545,7 +550,12 @@ function Main() {
 
           <div
             className="card mainh"
-            style={{ width: 1320, margin: 5, position: "relative", right: 18 }}
+            style={{
+              width: 1320,
+              margin: 5,
+              position: "relative",
+              right: 18,
+            }}
           >
             <div className="row" style={{ display: "flex", marginTop: 70 }}>
               <div className="col-lg-2">
@@ -695,7 +705,12 @@ function Main() {
 
           <div
             className="card mainh"
-            style={{ width: 1320, margin: 5, position: "relative", right: 18 }}
+            style={{
+              width: 1320,
+              margin: 5,
+              position: "relative",
+              right: 18,
+            }}
           >
             <div className="row" style={{ display: "flex", marginTop: 70 }}>
               <div className="col-lg-2">
